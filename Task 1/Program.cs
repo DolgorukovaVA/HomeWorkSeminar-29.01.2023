@@ -1,4 +1,5 @@
 ﻿// Показать двумерный массив размером m×n заполненный вещественными числами
+
 int GetNumber(string message)
 {
     Console.WriteLine(message);
